@@ -1,0 +1,4 @@
+/_spark_metadata
+/spark-warehouse
+/checkpoint
+/airflow/logs
