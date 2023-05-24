@@ -9,4 +9,4 @@ Data warehouse được xây dựng theo lược đồ ngôi sao bằng Postgres
 
 ## data model
 
-![schema](https://github.com/hung14102001/Final_project/assets/69703127/951e66d8-d8b0-4101-9a27-5339716aa14d)
+![image](https://github.com/hung14102001/Final_project/assets/69703127/5bbe1a1b-80b0-4adf-8dc8-1a7042a2fa98)
